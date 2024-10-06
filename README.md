@@ -1,0 +1,1 @@
+# android_lor_manifest
