@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8">
+<manifest>
+  <remote fetch="https://github.com/Duy-Thien-Embedded-Linux" name="origin"/>
+
+  <default remote="origin" revision="master"/>
+
+  <project name="application_layer" path="app"/>
+  <project name="service_layer" path="service"/>
+</manifest>
